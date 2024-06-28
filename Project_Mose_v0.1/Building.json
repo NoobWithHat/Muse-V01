@@ -1,0 +1,6 @@
+{
+  "buildings": {
+    "House": { "Price": 30 },
+    "Skyscraper": { "Price": 100 }
+  }
+}
